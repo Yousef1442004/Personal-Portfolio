@@ -1,0 +1,15 @@
+[
+    {
+    "id": 1,
+    "title": "ROS2 Navigation Robot Competition",
+    "description": "I developed a navigation robot using ROS2 that successfully moved through optical markers to reach three different points on a map while navigating obstacles. I competed against 90+ participants and achieved 5th place in the competition. This project involved path planning, sensor integration, and autonomous control.",
+    "image": "https://www.asme.org/getmedia/75e6ca2b-bd0a-4fff-beec-518ae52a462c/gps-helps-robots-get-the-job-done_hero.jpg.aspx?width=460&height=360&ext=.jpg",
+    "technologies": ["ROS2", "Navigation Stack", "RViz", "Optical Markers", "C++", "Python"],
+    "category": "robotics",
+    "github": "https://github.com/yourusername/ros2-navigation-robot",
+    "demo": "https://your-demo-link.com",
+    "year": "2025"
+    }    
+
+
+  ]
